@@ -1,0 +1,6 @@
+/bootstrap/*
+/fonts/*
+js/bootstrap.min.js
+js/bootstrap.js
+js/jquery.js
+css/bootstrap.min.css
