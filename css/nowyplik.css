@@ -71,12 +71,6 @@ li {
   display: flex;
 }
 
-.comment-header {
-  display: flex;
-  flex-direction: row;
-  min-width: 50%;
-}
-
 /* Przyciski */
 .btn {
   cursor: pointer;
